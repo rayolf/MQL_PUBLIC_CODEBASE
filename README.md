@@ -16,7 +16,7 @@ This repository is dedicated to sharing various custom EAs and indicators create
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YourUsername/YourRepositoryName.git
+   git clone https://github.com/rayolf/mql5_public.git
 2. Navigate to the specific project folder:
 cd YourRepositoryName/Expert-Advisors/YourProjectName
 
