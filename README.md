@@ -8,9 +8,9 @@ This repository is dedicated to sharing various custom EAs and indicators create
 
 ## Contents
 
-- **[Expert Advisors](./Expert-Advisors):** A collection of automated trading strategies.
+- **[Expert Advisors]:** A collection of automated trading strategies.
 - **[Indicators](https://github.com/rayolf/MQL_PUBLIC/tree/main/indicators):** Custom indicators for technical analysis and trading signals.
-- **[Utilities](./Utilities):** Additional tools and scripts to support your trading operations.
+- **[Utilities]:** Additional tools and scripts to support your trading operations.
 
 Contributions
 Contributions are welcome! If you have ideas for improvements or want to add your own tools, feel free to open a pull request.
